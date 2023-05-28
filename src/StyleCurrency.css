@@ -1,0 +1,6 @@
+option {color: black;}
+
+option:hover {
+     background-color: white; 
+     border:1px solid red 
+}
